@@ -1,1 +1,1 @@
-"projeto Angola News"
+# angolanews
