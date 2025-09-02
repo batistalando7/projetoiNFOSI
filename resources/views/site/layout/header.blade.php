@@ -1394,7 +1394,7 @@
                             <li><a href="#">Sobre Nós</a></li>
                             <li><a href="#">Política</a></li>
                             <li><a href="#">Economia</a></li>
-                            <li><a href="#">Sociedade</a></li>
+                            {{-- <li><a href="#">Sociedade</a></li> --}}
                             {{-- <li><a href="blog-category.html">Multimédia</a></li>
                             <li><a href="blog-category.html">Internacional</a></li> --}}
                             <li>
@@ -1436,14 +1436,13 @@
                                                 </div>
                                                 <div>
                                                     <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                        <li class="uc-nav-header mb-1">Eventos</li>
-                                                        <li><a href="shop.html">Desportivos</a></li>
-                                                        <li><a href="shop-3.html">Educação</a></li>
-                                                        {{-- <li><a href="shop-2.html">Grid 2 cols</a></li>
-                                                        <li><a href="shop-product-detail.html">Product detail</a></li>
-                                                        <li><a href="shop-product-detail-2.html">Product detail v2</a>
-                                                        </li>
-                                                        <li><a href="shop-cart.html">Cart</a></li>
+                                                        <li class="uc-nav-header mb-1">Sociedade</li>
+                                                        <li><a href="shop.html">Educação</a></li>
+                                                        <li><a href="shop-3.html">Saúde</a></li>
+                                                        <li><a href="shop-2.html">Direitos Humanos</a></li>
+                                                        <li><a href="shop-product-detail.html">Cultura</a></li>
+                                                        <li><a href="shop-product-detail-2.html">Desporto</a></li>
+                                                        {{-- <li><a href="shop-cart.html">Cart</a></li>
                                                         <li><a href="shop-cart-2.html">Cart v2</a></li>
                                                         <li><a href="shop-checkout.html">Checkout</a></li>
                                                         <li><a href="shop-checkout-2.html">Checkout v2</a></li>
