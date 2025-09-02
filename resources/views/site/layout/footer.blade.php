@@ -4,7 +4,7 @@
                 <div class="container max-w-xl">
                     <div class="footer-inner vstack gap-4 justify-center lg:fs-5 text-gray-900 dark:text-white">
                         <div class="footer-logo text-center">
-                            <img class="uc-logo w-100px text-gray-900 dark:text-white" src="../assets/images/demo-eight/common/logo.svg" alt="News5" data-uc-svg>
+                            <img class="uc-logo w-100px text-gray-900 dark:text-white" src="{{ url('site/assets/images/demo-eight/common/logo.svg')}}" alt="News5" data-uc-svg>
                         </div>
                         <nav class="footer-nav">
                             <ul class="nav-x gap-2 lg:gap-3 justify-center text-center fw-medium">

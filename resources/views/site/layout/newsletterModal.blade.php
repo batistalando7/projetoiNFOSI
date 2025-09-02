@@ -7,7 +7,7 @@
                 <div class="row md:child-cols-6 col-match g-0">
                     <div class="d-none md:d-flex">
                         <div class="position-relative w-100 ratio-1x1">
-                            <img class="media-cover" src="../assets/images/demo-eight/common/newsletter.jpg" alt="Newsletter image">
+                            <img class="media-cover" src="{{ url('site/assets/images/demo-eight/common/newsletter.jpg')}}" alt="Newsletter image">
                         </div>
                     </div>
                     <div>

@@ -10,7 +10,7 @@
                                 </div>
                                 <div class="uc-logo text-white">
                                     <a href="index.html">
-                                        <img class="w-80px text-dark dark:text-white" src="../assets/images/demo-eight/common/logo.svg" alt="News5" data-uc-svg>
+                                        <img class="w-80px text-dark dark:text-white" src="{{ url('site/assets/images/demo-eight/common/logo.svg')}}" alt="News5" data-uc-svg>
                                     </a>
                                 </div>
                                 <ul class="uc-navbar-nav gap-3 fs-5 fw-bolder ms-2 d-none lg:d-flex" style="--uc-nav-height: 60px">
@@ -36,7 +36,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-06.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-06.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -74,7 +74,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-07.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-07.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -112,7 +112,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-08.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-08.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -150,7 +150,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-09.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-09.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -190,7 +190,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-01.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-01.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -228,7 +228,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-02.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-02.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -266,7 +266,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-03.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-03.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -304,7 +304,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-04.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-04.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -344,7 +344,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-11.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-11.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -382,7 +382,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-12.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-12.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -420,7 +420,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-13.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-13.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -454,7 +454,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-14.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-14.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -490,7 +490,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-09.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-09.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -528,7 +528,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-10.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-10.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -566,7 +566,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-11.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-11.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -604,7 +604,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-12.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-12.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -644,7 +644,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-03.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-03.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -682,7 +682,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-04.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-04.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -720,7 +720,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-05.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-05.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -758,7 +758,7 @@
                                                                 <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                         <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-06.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-06.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                             <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                                         </figure>
                                                                         <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -806,7 +806,7 @@
                                                     <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-01.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-01.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                 <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                             <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -844,7 +844,7 @@
                                                     <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-02.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-02.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                 <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                             <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -882,7 +882,7 @@
                                                     <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-03.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-03.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                 <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                             <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -920,7 +920,7 @@
                                                     <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-04.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-04.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                 <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                             <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -958,7 +958,7 @@
                                                     <article class="post type-post panel hstack sm:vstack items-start gap-2 overflow-hidden">
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-eight/posts/img-05.jpg" alt="image" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/img-05.jpg')}}" alt="image" data-uc-img="loading: lazy">
                                                                 <a href="blog-details.html" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                             <div class="post-meta-catgory position-absolute top-0 start-0 m-1 fs-7 px-narrow bg-primary d-none sm:d-block">
@@ -1007,16 +1007,16 @@
                                                         <div>
                                                             <ul class="uc-nav uc-navbar-dropdown-nav">
                                                                 <li class="uc-nav-header mb-1">Main Pages</li>
-                                                                <li><a href="../main/index.html">Main</a></li>
-                                                                <li><a href="../demo-two/index.html">Classic News</a></li>
-                                                                <li><a href="../demo-three/index.html">Tech</a></li>
-                                                                <li><a href="../demo-four/index.html">Classic Blog</a></li>
-                                                                <li><a href="../demo-five/index.html">Gaming</a></li>
-                                                                <li><a href="../demo-six/index.html">Sports</a></li>
-                                                                <li><a href="../demo-seven/index.html">Newspaper</a></li>
-                                                                <li><a href="../demo-eight/index.html">Magazine</a></li>
-                                                                <li><a href="../demo-nine/index.html">Travel</a></li>
-                                                                <li><a href="../demo-ten/index.html">Food</a></li>
+                                                                <li><a href="#">Main</a></li>
+                                                                <li><a href="#">Classic News</a></li>
+                                                                <li><a href="#ml">Tech</a></li>
+                                                                <li><a href="#l">Classic Blog</a></li>
+                                                                <li><a href="#l">Gaming</a></li>
+                                                                <li><a href="#">Sports</a></li>
+                                                                <li><a href="#ml">Newspaper</a></li>
+                                                                <li><a href="#ml">Magazine</a></li>
+                                                                <li><a href="#l">Travel</a></li>
+                                                                <li><a href="#">Food</a></li>
                                                             </ul>
                                                         </div>
                                                         <div>
@@ -1066,7 +1066,7 @@
                                                 <div class="col-3">
                                                     <div class="panel w-100 overflow-hidden">
                                                         <div class="ratio ratio-3x4 overflow-hidden rounded">
-                                                            <img src="../assets/images/common/menu-banner.jpg" alt="Let's build anything with News5!">
+                                                            <img src="{{ url('site/assets/images/common/menu-banner.jpg')}}" alt="Let's build anything with News5!">
                                                             <a class="position-cover" href="https://themeforest.net/user/reacthemes/portfolio" target="_blank"></a>
                                                         </div>
                                                     </div>

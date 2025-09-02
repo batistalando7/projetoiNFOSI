@@ -16,7 +16,7 @@
                                 <article class="product type-product panel">
                                     <div class="hstack gap-2">
                                         <figure class="featured-image m-0 ratio ratio-1x1 w-80px uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/common/products/img-07.jpg" alt="Laptop Cover" data-uc-img="loading: lazy">
+                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/common/products/img-17.jpg')}}" alt="Laptop Cover" data-uc-img="loading: lazy">
                                             <a href="shop-product-detail.html" class="position-cover" data-caption="Laptop Cover"></a>
                                         </figure>
                                         <div class="content vstack gap-narrow fs-6">
@@ -34,7 +34,7 @@
                                 <article class="product type-product panel">
                                     <div class="hstack gap-2">
                                         <figure class="featured-image m-0 ratio ratio-1x1 w-80px uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/common/products/img-08.jpg" alt="Disney Toys" data-uc-img="loading: lazy">
+                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/common/products/img-08.jpg')}}" alt="Disney Toys" data-uc-img="loading: lazy">
                                             <a href="shop-product-detail.html" class="position-cover" data-caption="Disney Toys"></a>
                                         </figure>
                                         <div class="content vstack gap-narrow fs-6">
@@ -52,7 +52,7 @@
                                 <article class="product type-product panel">
                                     <div class="hstack gap-2">
                                         <figure class="featured-image m-0 ratio ratio-1x1 w-80px uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/common/products/img-09.jpg" alt="Screen Axe" data-uc-img="loading: lazy">
+                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/common/products/img-09.jpg')}}" alt="Screen Axe" data-uc-img="loading: lazy">
                                             <a href="shop-product-detail.html" class="position-cover" data-caption="Screen Axe"></a>
                                         </figure>
                                         <div class="content vstack gap-narrow fs-6">
@@ -70,7 +70,7 @@
                                 <article class="product type-product panel">
                                     <div class="hstack gap-2">
                                         <figure class="featured-image m-0 ratio ratio-1x1 w-80px uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="../assets/images/common/img-fallback.png" data-src="../assets/images/common/products/img-10.jpg" alt="Airpods Pro" data-uc-img="loading: lazy">
+                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/common/products/img-10.jpg')}}" alt="Airpods Pro" data-uc-img="loading: lazy">
                                             <a href="shop-product-detail.html" class="position-cover" data-caption="Airpods Pro"></a>
                                         </figure>
                                         <div class="content vstack gap-narrow fs-6">
