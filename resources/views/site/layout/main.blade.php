@@ -68,7 +68,7 @@
          @include('site.layout.searchModal')
          @include('site.layout.menuPanel')
          @include('site.layout.cartPanel')
-         @include('site.layout.favoritesModal')
+         @include('site.layout.favoritesmodal')
          @include('site.layout.newsletterModal')
          @include('site.layout.accountModal')
          @include('site.layout.gdprModal')
