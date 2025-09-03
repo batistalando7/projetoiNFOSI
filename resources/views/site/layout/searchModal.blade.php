@@ -5,10 +5,10 @@
                     <i class="unicon-close"></i>
                 </button>
                 <div class="panel w-100 sm:w-500px px-2 py-10">
-                    <h3 class="h1 text-center">Search</h3>
+                    <h3 class="h1 text-center">Pesuisar</h3>
                     <form class="hstack gap-1 mt-4 border-bottom p-narrow dark:border-gray-700" action="?">
                         <span class="d-inline-flex justify-center items-center w-24px sm:w-40 h-24px sm:h-40px opacity-50"><i class="unicon-search icon-3"></i></span>
-                        <input type="search" name="q" class="form-control-plaintext ms-1 fs-6 sm:fs-5 w-full dark:text-white" placeholder="Type your keyword.." aria-label="Search" autofocus>
+                        <input type="search" name="q" class="form-control-plaintext ms-1 fs-6 sm:fs-5 w-full dark:text-white" placeholder="Digite sua palavra-chave." aria-label="Search" autofocus>
                     </form>
                 </div>
             </div>

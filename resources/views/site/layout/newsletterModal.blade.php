@@ -12,14 +12,14 @@
                     </div>
                     <div>
                         <div class="panel vstack self-center p-4 md:py-8 text-center">
-                            <h3 class="h3 md:h2">Subscribe to the Newsletter</h3>
-                            <p class="ft-tertiary">Join 10k+ people to get notified about new posts, news and tips.</p>
+                            <h3 class="h3 md:h2">Subescreva-se no Angola News</h3>
+                            <p class="ft-tertiary">Junte-se a mais de 10 mil pessoas para receber notificações sobre novas postagens, notícias e dicas.</p>
                             <div class="panel mt-2 lg:mt-4">
                                 <form class="vstack gap-1">
-                                    <input type="email" class="form-control form-control-sm w-full fs-6 bg-white dark:border-white dark:border-gray-700 dark:text-dark" placeholder="Your email address..">
-                                    <button type="submit" class="btn btn-sm btn-primary">Sign up</button>
+                                    <input type="email" class="form-control form-control-sm w-full fs-6 bg-white dark:border-white dark:border-gray-700 dark:text-dark" placeholder="Seu endereço de email..">
+                                    <button type="submit" class="btn btn-sm btn-primary">Entrar</button>
                                 </form>
-                                <p class="fs-7 mt-2">Do not worry we don't spam!</p>
+                                <p class="fs-7 mt-2">Não se preocupe, não enviamos spam!</p>
                             </div>
                         </div>
                     </div>

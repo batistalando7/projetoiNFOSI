@@ -17,7 +17,7 @@
 
          <div class="panel">
              <form id="search-panel" class="form-icon-group vstack gap-1 mb-3" data-uc-sticky="">
-                 <input type="email" class="form-control form-control-md fs-6" placeholder="Search..">
+                 <input type="email" class="form-control form-control-md fs-6" placeholder="Pesquisar..">
                  <span class="form-icon text-gray">
                      <i class="unicon-search icon-1"></i>
                  </span>

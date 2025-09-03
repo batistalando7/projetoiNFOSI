@@ -18,48 +18,48 @@
                                             <div class="swiper-slide">
                                                 <article class="post type-post">
                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1 sm:ratio-16x9">
-                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="The Importance of Sleep: Tips for Better Rest and Recovery" data-uc-img="loading: lazy">
+                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="A importância do sono: dicas para um melhor descanso e recuperação" data-uc-img="loading: lazy">
                                                     </div>
                                                     <div class="post-content py-2 sm:py-4 md:py-6 xl:py-8 md:px-4 xl:px-6 position-absolute top-0 start-0 end-0 bottom-0 z-1 vstack justify-center items-center gap-2 text-center w-100 h-100 bg-gray-900 bg-opacity-50">
-                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="blog-details.html" class="text-none text-white">Vice-Presidente do MPLA recebe secretário-geral do Partido Socialista Português</a></h2>
+                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="#news" class="text-none text-white">Vice-Presidente do MPLA recebe secretário-geral do Partido Sociedadeista Português</a></h2>
                                                         <div class="post-meta panel hstack justify-between fs-7 fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex"></div>
-                                                        <a href="blog-details.html" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
+                                                        <a href="#news" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
                                                     </div>
                                                 </article>
                                             </div>
                                             <div class="swiper-slide">
                                                 <article class="post type-post">
                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1 sm:ratio-16x9">
-                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/jlo.jpeg')}}" alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles" data-uc-img="loading: lazy">
+                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/jlo.jpeg')}}" alt="O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos" data-uc-img="loading: lazy">
                                                     </div>
                                                     <div class="post-content py-2 sm:py-4 md:py-6 xl:py-8 md:px-4 xl:px-6 position-absolute top-0 start-0 end-0 bottom-0 z-1 vstack justify-center items-center gap-2 text-center w-100 h-100 bg-gray-900 bg-opacity-50">
-                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="blog-details.html" class="text-none text-white">Chefe de Estado orienta reunião com autoridades da administração local de Cabinda</a></h2>
+                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="#news" class="text-none text-white">Chefe de Estado orienta reunião com autoridades da administração local de Cabinda</a></h2>
                                                         <div class="post-meta panel hstack justify-between fs-7 fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex"></div>
-                                                        <a href="blog-details.html" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
+                                                        <a href="#news" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
                                                     </div>
                                                 </article>
                                             </div>
                                             <div class="swiper-slide">
                                                 <article class="post type-post">
                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1 sm:ratio-16x9">
-                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="Business Agility the Digital Age: Leveraging AI and Automation" data-uc-img="loading: lazy">
+                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="Agilidade empresarial na era digital: aproveitando a IA e a automação" data-uc-img="loading: lazy">
                                                     </div>
                                                     <div class="post-content py-2 sm:py-4 md:py-6 xl:py-8 md:px-4 xl:px-6 position-absolute top-0 start-0 end-0 bottom-0 z-1 vstack justify-center items-center gap-2 text-center w-100 h-100 bg-gray-900 bg-opacity-50">
-                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="blog-details.html" class="text-none text-white">Gestão da fábrica têxtil Satec fica sob controlo do Fundo Soberano</a></h2>
+                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="#news" class="text-none text-white">Gestão da fábrica têxtil Satec fica sob controlo do Fundo Soberano</a></h2>
                                                         <div class="post-meta panel hstack justify-between fs-7 fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex"></div>
-                                                        <a href="blog-details.html" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
+                                                        <a href="#news" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
                                                     </div>
                                                 </article>
                                             </div>
                                             <div class="swiper-slide">
                                                 <article class="post type-post">
                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1 sm:ratio-16x9">
-                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="The Art of Baking: From Classic Bread to Artisan Pastries" data-uc-img="loading: lazy">
+                                                        <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="A Arte da Panificação: Do ​​Pão Clássico aos Doces Artesanais" data-uc-img="loading: lazy">
                                                     </div>
                                                     <div class="post-content py-2 sm:py-4 md:py-6 xl:py-8 md:px-4 xl:px-6 position-absolute top-0 start-0 end-0 bottom-0 z-1 vstack justify-center items-center gap-2 text-center w-100 h-100 bg-gray-900 bg-opacity-50">
-                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="blog-details.html" class="text-none text-white">Primeiro dia marcado pela fraca presença de discentes nas escolas</a></h2>
+                                                        <h2 class="h4 md:h3 xl:h1 max-w-2/3 md:max-w-sm my-0 mx-auto"><a href="#news" class="text-none text-white">Primeiro dia marcado pela fraca presença de discentes nas escolas</a></h2>
                                                         <div class="post-meta panel hstack justify-between fs-7 fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex"></div>
-                                                        <a href="blog-details.html" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
+                                                        <a href="#news" class="btn btn-sm xl:btn-md btn-primary md:mt-1 xl:mt-2 text-white">Ver Mais</a>
                                                     </div>
                                                 </article>
                                             </div>
@@ -89,11 +89,11 @@
                                                     <div class="row g-0">
                                                         <div class="w-56px xl:w-64px">
                                                             <figure class="featured-image m-0 ratio ratio-1x1 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="The Importance of Sleep: Tips for Better Rest and Recovery" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="A importância do sono: dicas para um melhor descanso e recuperação" data-uc-img="loading: lazy">
                                                             </figure>
                                                         </div>
                                                         <div class="col ms-1 md:ms-2">
-                                                            <h4 class="h6 m-0 text-truncate-3">Vice-Presidente do MPLA recebe secretário-geral do Partido Socialista Português</h4>
+                                                            <h4 class="h6 m-0 text-truncate-3">Vice-Presidente do MPLA recebe secretário-geral do Partido Sociedadeista Português</h4>
                                                         </div>
                                                     </div>
                                                 </article>
@@ -103,7 +103,7 @@
                                                     <div class="row g-0">
                                                         <div class="w-56px xl:w-64px">
                                                             <figure class="featured-image m-0 ratio ratio-1x1 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/jlo.jpeg')}}" alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/jlo.jpeg')}}" alt="O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos" data-uc-img="loading: lazy">
                                                             </figure>
                                                         </div>
                                                         <div class="col ms-1 md:ms-2">
@@ -117,7 +117,7 @@
                                                     <div class="row g-0">
                                                         <div class="w-56px xl:w-64px">
                                                             <figure class="featured-image m-0 ratio ratio-1x1 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="Business Agility the Digital Age: Leveraging AI and Automation" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="Agilidade empresarial na era digital: aproveitando a IA e a automação" data-uc-img="loading: lazy">
                                                             </figure>
                                                         </div>
                                                         <div class="col ms-1 md:ms-2">
@@ -131,7 +131,7 @@
                                                     <div class="row g-0">
                                                         <div class="w-56px xl:w-64px">
                                                             <figure class="featured-image m-0 ratio ratio-1x1 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="The Art of Baking: From Classic Bread to Artisan Pastries" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="A Arte da Panificação: Do ​​Pão Clássico aos Doces Artesanais" data-uc-img="loading: lazy">
                                                             </figure>
                                                         </div>
                                                         <div class="col ms-1 md:ms-2">
@@ -151,7 +151,6 @@
             </div>
 
             <!-- Section end -->
-
             <!-- Section start -->
             <div class="section panel overflow-hidden-x">
                 <div class="section-outer panel pt-4 md:pt-6 lg:pt-8 xl:pt-9">
@@ -166,7 +165,7 @@
                                                     <div class="post-media panel overflow-hidden">
                                                         <figure class="featured-image m-0 ratio ratio-16x9 bg-gray-50 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-3 p-2 sm:p-3">
@@ -177,9 +176,9 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h4 xl:h3 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Balancing Work and Wellness: Tech Solutions for Healthy</a>
+                                                                <a class="text-none" href="#news">Equilibrando Trabalho e Bem-Estar: Soluções Tecnológicas para uma Vida Saudável</a>
                                                             </h3>
-                                                            <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">Children over the past two decades, a Post investigation found. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
+                                                            <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">Crianças nas últimas duas décadas, descobriu uma investigação do Post. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
                                                         </div>
                                                         <div class="post-bottom panel hstack justify-between gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60 d-none sm:d-flex">
                                                             <div>
@@ -192,8 +191,8 @@
                                                                     <span>1h ago</span>
                                                                 </div>
                                                             </div>
-                                                            <a href="blog-details.html" class="link fs-6 fw-bolder text-none duration-250">
-                                                                <span>More</span>
+                                                            <a href="#news" class="link fs-6 fw-bolder text-none duration-250">
+                                                                <span>Mais</span>
                                                                 <i class="icon-1 unicon-chevron-right"></i>
                                                             </a>
                                                         </div>
@@ -208,7 +207,7 @@
                                                                 <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                     <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                        <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                        <a href="#news" class="position-cover" data-caption="image"></a>
                                                                     </figure>
                                                                 </div>
                                                                 <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -219,7 +218,7 @@
                                                                             </div>
                                                                         </div>
                                                                         <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                            <a class="text-none" href="blog-details.html">Solo Travel: Some Tips and Destinations for the Adventurous Explorer</a>
+                                                                            <a class="text-none" href="#news">Viagem Solo: Algumas Dicas e Destinos para o Explorador Aventureiro</a>
                                                                         </h3>
                                                                     </div>
                                                                     <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -234,7 +233,7 @@
                                                                             </div>
                                                                         </div>
                                                                         <div>
-                                                                            <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                            <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                                 <i class="icon-narrow unicon-chat"></i>
                                                                                 <span>5</span>
                                                                             </a>
@@ -248,7 +247,7 @@
                                                                 <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                     <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                        <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                        <a href="#news" class="position-cover" data-caption="image"></a>
                                                                     </figure>
                                                                 </div>
                                                                 <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -259,7 +258,7 @@
                                                                             </div>
                                                                         </div>
                                                                         <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                            <a class="text-none" href="blog-details.html">AI-Powered Financial Planning: How Algorithms Revolutionizing</a>
+                                                                            <a class="text-none" href="#news">Planejamento financeiro com tecnologia de IA: como os algoritmos estão revolucionando</a>
                                                                         </h3>
                                                                     </div>
                                                                     <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -274,7 +273,7 @@
                                                                             </div>
                                                                         </div>
                                                                         <div>
-                                                                            <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                            <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                                 <i class="icon-narrow unicon-chat"></i>
                                                                                 <span>2</span>
                                                                             </a>
@@ -305,9 +304,9 @@
                                             <div class="list-header panel mb-2 hstack justify-between ga-2">
                                                 <h2 class="list-title h5 m-0 hstack gap-1">
                                                     <i class="icon icon-narrow unicon-flash-filled text-primary"></i>
-                                                    <span>Trending <span class="text-primary">now</span></span>
+                                                    <span>Tendências <span class="text-primary">agora</span></span>
                                                 </h2>
-                                                <a href="blog-details.html" class="link fs-6 fw-bold text-uppercase text-none gap-1 mt-narrow sm:mt-1 hover:text-gray-900 dark:hover:text-white duration-200 sm:d-none">
+                                                <a href="#news" class="link fs-6 fw-bold text-uppercase text-none gap-1 mt-narrow sm:mt-1 hover:text-gray-900 dark:hover:text-white duration-200 sm:d-none">
                                                     <span>See All</span>
                                                 </a>
                                             </div>
@@ -319,7 +318,7 @@
                                                                 <span class="time fs-7 opacity-60">10:23</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">A ascensão dos assistentes pessoais com tecnologia de IA: como eles gerenciam</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -329,7 +328,7 @@
                                                                 <span class="time fs-7 opacity-60">09:30</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Tech Innovations Reshaping the Retail Landscape: AI Payments</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">Inovações tecnológicas remodelando o cenário do varejo: pagamentos por IA</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -339,7 +338,7 @@
                                                                 <span class="time fs-7 opacity-60">09:10</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Balancing Work and Wellness: Tech Solutions for Healthy</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">Equilibrando Trabalho e Bem-Estar: Soluções Tecnológicas para uma Vida Saudável</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -349,7 +348,7 @@
                                                                 <span class="time fs-7 opacity-60">08:00</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">A Importância do Sono: Dicas para Melhor Descanso e Recuperação</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -359,7 +358,7 @@
                                                                 <span class="time fs-7 opacity-60">22:00</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -369,7 +368,7 @@
                                                                 <span class="time fs-7 opacity-60">14:15</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Business Agility the Digital Age: Leveraging AI and Automation</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">Agilidade empresarial na era digital: aproveitando a IA e a automação</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -379,7 +378,7 @@
                                                                 <span class="time fs-7 opacity-60">16:30</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">A Arte da Panificação: Do Pão Clássico à Pastelaria Artesanal</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -389,7 +388,7 @@
                                                                 <span class="time fs-7 opacity-60">20:00</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">IA e Marketing: Revelando Insights dos Clientes</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -399,7 +398,7 @@
                                                                 <span class="time fs-7 opacity-60">12:00</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Hidden Gems: Underrated Travel Destinations Around the World</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">Tesouros Escondidos: Destinos de Viagem Subestimados pelo Mundo</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -409,7 +408,7 @@
                                                                 <span class="time fs-7 opacity-60">12:15</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Eco-Tourism: Traveling Responsibly and Sustainably</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">Eco-Tourism: Traveling Responsibly and Sustainably</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -419,7 +418,7 @@
                                                                 <span class="time fs-7 opacity-60">12:30</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Solo Travel: Some Tips and Destinations for the Adventurous Explorer</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">Viagem Solo: Algumas Dicas e Destinos para o Explorador Aventureiro</a>
                                                             </h6>
                                                         </article>
                                                     </div>
@@ -429,14 +428,14 @@
                                                                 <span class="time fs-7 opacity-60">23:00</span>
                                                             </div>
                                                             <h6 class="fs-5 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">AI-Powered Financial Planning: How Algorithms Revolutionizing</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="#news">Planejamento financeiro com tecnologia de IA: como os algoritmos estão revolucionando</a>
                                                             </h6>
                                                         </article>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="list-footer panel mt-3 text-center d-none sm:d-block">
-                                                <a href="blog-details.html" class="link fs-6 fw-bold text-uppercase text-none gap-1 mt-1 hover:text-gray-900 dark:hover:text-white duration-200">
+                                                <a href="#news" class="link fs-6 fw-bold text-uppercase text-none gap-1 mt-1 hover:text-gray-900 dark:hover:text-white duration-200">
                                                     <span>See all posts</span>
                                                     <i class="icon-1 unicon-arrow-right"></i>
                                                 </a>
@@ -451,7 +450,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -462,7 +461,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                                                    <a class="text-none" href="#news">A ascensão dos assistentes pessoais com tecnologia de IA: como eles gerenciam</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -477,7 +476,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>2</span>
                                                                     </a>
@@ -491,7 +490,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -502,7 +501,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">Tech Innovations Reshaping the Retail Landscape: AI Payments</a>
+                                                                    <a class="text-none" href="#news">Inovações tecnológicas remodelando o cenário do varejo: pagamentos por IA</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -517,7 +516,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>100</span>
                                                                     </a>
@@ -545,7 +544,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -556,7 +555,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">Balancing Work and Wellness: Tech Solutions for Healthy</a>
+                                                                    <a class="text-none" href="#news">Equilibrando Trabalho e Bem-Estar: Soluções Tecnológicas para uma Vida Saudável</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -571,7 +570,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>0</span>
                                                                     </a>
@@ -585,7 +584,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -596,7 +595,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                                                    <a class="text-none" href="#news">A importância do sono: dicas para um melhor descanso e recuperação</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -611,7 +610,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>0</span>
                                                                     </a>
@@ -631,7 +630,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -642,7 +641,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                    <a class="text-none" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -657,7 +656,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>1</span>
                                                                     </a>
@@ -671,7 +670,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -682,7 +681,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">Business Agility the Digital Age: Leveraging AI and Automation</a>
+                                                                    <a class="text-none" href="#news">Agilidade empresarial na era digital: aproveitando a IA e a automação</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -697,7 +696,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>23</span>
                                                                     </a>
@@ -743,7 +742,7 @@
                                 <div class="block-header px-2 lg:px-0">
                                     <h2 class="h4 md:h3 m-0">
                                         <i class="icon unicon-play text-primary"></i>
-                                        <span>Watch Now</span>
+                                        <span>Assista agora</span>
                                     </h2>
                                 </div>
                                 <div class="block-content overflow-hidden">
@@ -755,9 +754,9 @@
                                                         <div>
                                                             <div class="post-media panel overflow-hidden">
                                                                 <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 h-100">
-                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="AI-Powered Financial Planning: How Algorithms Revolutionizing" data-uc-img="loading: lazy">
+                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="Planejamento financeiro com tecnologia de IA: como os algoritmos estão revolucionando" data-uc-img="loading: lazy">
                                                                 </div>
-                                                                <a href="blog-details.html" class="position-cover"></a>
+                                                                <a href="#news" class="position-cover"></a>
                                                             </div>
                                                         </div>
                                                         <div>
@@ -769,9 +768,9 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h4 sm:h3 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">AI-Powered Financial Planning: How Algorithms Revolutionizing</a>
+                                                                        <a class="text-none" href="#news">Planejamento financeiro com tecnologia de IA: como os algoritmos estão revolucionando</a>
                                                                     </h3>
-                                                                    <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">To spread the word, the company embarked on a mass marketing drive. TV campaigns launched in the platform’s key markets. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
+                                                                    <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">Para divulgar a ideia, a empresa embarcou em uma campanha de marketing em massa. Campanhas de TV foram lançadas nos principais mercados da plataforma. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack justify-between gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60 d-none sm:d-flex">
                                                                     <div>
@@ -784,8 +783,8 @@
                                                                             <span>2mo ago</span>
                                                                         </div>
                                                                     </div>
-                                                                    <a href="blog-details.html" class="link fs-6 fw-bolder text-none duration-250">
-                                                                        <span>More</span>
+                                                                    <a href="#news" class="link fs-6 fw-bolder text-none duration-250">
+                                                                        <span>Ver Mais</span>
                                                                         <i class="icon-1 unicon-chevron-right"></i>
                                                                     </a>
                                                                 </div>
@@ -802,9 +801,9 @@
                                                         <article class="post type-post panel hstack sm:vstack items-start gap-2 sm:gap-0 p-2 sm:p-0 overflow-hidden text-gray-900 dark:text-white bg-white dark:bg-gray-900">
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2 sm:ratio-16x9">
-                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles" data-uc-img="loading: lazy">
+                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos" data-uc-img="loading: lazy">
                                                                 </div>
-                                                                <a href="blog-details.html" class="position-cover"></a>
+                                                                <a href="#news" class="position-cover"></a>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
                                                                 <div class="post-top panel vstack items-start gap-2">
@@ -814,7 +813,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                        <a class="text-none" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -836,9 +835,9 @@
                                                         <article class="post type-post panel hstack sm:vstack items-start gap-2 sm:gap-0 p-2 sm:p-0 overflow-hidden text-gray-900 dark:text-white bg-white dark:bg-gray-900">
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2 sm:ratio-16x9">
-                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="Business Agility the Digital Age: Leveraging AI and Automation" data-uc-img="loading: lazy">
+                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="Agilidade empresarial na era digital: aproveitando a IA e a automação" data-uc-img="loading: lazy">
                                                                 </div>
-                                                                <a href="blog-details.html" class="position-cover"></a>
+                                                                <a href="#news" class="position-cover"></a>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
                                                                 <div class="post-top panel vstack items-start gap-2">
@@ -848,7 +847,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">Business Agility the Digital Age: Leveraging AI and Automation</a>
+                                                                        <a class="text-none" href="#news">Agilidade empresarial na era digital: aproveitando a IA e a automação</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -870,9 +869,9 @@
                                                         <article class="post type-post panel hstack sm:vstack items-start gap-2 sm:gap-0 p-2 sm:p-0 overflow-hidden text-gray-900 dark:text-white bg-white dark:bg-gray-900">
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2 sm:ratio-16x9">
-                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="The Art of Baking: From Classic Bread to Artisan Pastries" data-uc-img="loading: lazy">
+                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="A Arte da Panificação: Do ​​Pão Clássico aos Doces Artesanais" data-uc-img="loading: lazy">
                                                                 </div>
-                                                                <a href="blog-details.html" class="position-cover"></a>
+                                                                <a href="#news" class="position-cover"></a>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
                                                                 <div class="post-top panel vstack items-start gap-2">
@@ -882,7 +881,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                        <a class="text-none" href="#news">A Arte da Panificação: Do ​​Pão Clássico aos Doces Artesanais</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -904,9 +903,9 @@
                                                         <article class="post type-post panel hstack sm:vstack items-start gap-2 sm:gap-0 p-2 sm:p-0 overflow-hidden text-gray-900 dark:text-white bg-white dark:bg-gray-900">
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2 sm:ratio-16x9">
-                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="AI and Marketing: Unlocking Customer Insights" data-uc-img="loading: lazy">
+                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="IA e Marketing: Desbloqueando Insights do Cliente" data-uc-img="loading: lazy">
                                                                 </div>
-                                                                <a href="blog-details.html" class="position-cover"></a>
+                                                                <a href="#news" class="position-cover"></a>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
                                                                 <div class="post-top panel vstack items-start gap-2">
@@ -916,7 +915,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                        <a class="text-none" href="#news">IA e Marketing: Desbloqueando Insights do Cliente</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -940,8 +939,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -961,7 +960,7 @@
                             <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
                                 <div class="block-header px-2 lg:px-0">
                                     <h2 class="h4 md:h3 m-0">
-                                        <span>World</span>
+                                        <span>Mundo</span>
                                     </h2>
                                 </div>
                                 <div class="block-content panel">
@@ -972,7 +971,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -983,7 +982,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Tech Tools for your Time Management: Enhancing Productivity</a>
+                                                                <a class="text-none" href="#news">Ferramentas tecnológicas para sua gestão de tempo: aumentando a produtividade</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -994,7 +993,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>19</span>
                                                                 </a>
@@ -1008,7 +1007,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1019,7 +1018,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">A Guide to The Rise of Gourmet Street Food: Trends and Top Picks</a>
+                                                                <a class="text-none" href="#news">Um guia sobre a ascensão da comida gourmet de rua: tendências e principais escolhas</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1030,7 +1029,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>2</span>
                                                                 </a>
@@ -1044,7 +1043,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1055,7 +1054,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
+                                                                <a class="text-none" href="#news">Gaming in the Age of AI: Strategies for Startups</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1066,7 +1065,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>19</span>
                                                                 </a>
@@ -1080,7 +1079,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1091,7 +1090,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Top Independent Contractors to Invest in Best of Startups</a>
+                                                                <a class="text-none" href="#news">Top Independent Contractors to Invest in Best of Startups</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1102,7 +1101,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>12</span>
                                                                 </a>
@@ -1116,7 +1115,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1127,7 +1126,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Potential of Immersive Technologies help your Business Grow</a>
+                                                                <a class="text-none" href="#news">Potential of Immersive Technologies help your Business Grow</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1138,7 +1137,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>45</span>
                                                                 </a>
@@ -1152,7 +1151,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1163,7 +1162,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
+                                                                <a class="text-none" href="#news">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1178,7 +1177,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>290</span>
                                                                 </a>
@@ -1192,7 +1191,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1203,7 +1202,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                <a class="text-none" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1218,7 +1217,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>1</span>
                                                                 </a>
@@ -1232,7 +1231,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1243,7 +1242,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Smart Homes, Smarter Living: Exploring IoT and AI</a>
+                                                                <a class="text-none" href="#news">Smart Homes, Smarter Living: Exploring IoT and AI</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1258,7 +1257,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>15</span>
                                                                 </a>
@@ -1281,8 +1280,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -1317,7 +1316,7 @@
                                                                 <div class="post-media panel overflow-hidden">
                                                                     <figure class="featured-image m-0 ratio ratio-16x9 bg-gray-50 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                        <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                        <a href="#news" class="position-cover" data-caption="image"></a>
                                                                     </figure>
                                                                 </div>
                                                                 <div class="post-header panel vstack justify-between gap-3 p-2 sm:p-3">
@@ -1328,9 +1327,9 @@
                                                                             </div>
                                                                         </div>
                                                                         <h3 class="post-title h4 xl:h3 m-0 text-truncate-2">
-                                                                            <a class="text-none" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                            <a class="text-none" href="#news">A Arte da Panificação: Do ​​Pão Clássico aos Doces Artesanais</a>
                                                                         </h3>
-                                                                        <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">To spread the word, the company embarked on a mass marketing drive. TV campaigns launched in the platform’s key markets. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
+                                                                        <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">Para divulgar a ideia, a empresa embarcou em uma campanha de marketing em massa. Campanhas de TV foram lançadas nos principais mercados da plataforma. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
                                                                     </div>
                                                                     <div class="post-bottom panel hstack justify-between gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60 d-none sm:d-flex">
                                                                         <div>
@@ -1343,8 +1342,8 @@
                                                                                 <span>9d ago</span>
                                                                             </div>
                                                                         </div>
-                                                                        <a href="blog-details.html" class="link fs-6 fw-bolder text-none duration-250">
-                                                                            <span>More</span>
+                                                                        <a href="#news" class="link fs-6 fw-bolder text-none duration-250">
+                                                                            <span>Ver Mais</span>
                                                                             <i class="icon-1 unicon-chevron-right"></i>
                                                                         </a>
                                                                     </div>
@@ -1359,7 +1358,7 @@
                                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                                 <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                                     <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                                    <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                                    <a href="#news" class="position-cover" data-caption="image"></a>
                                                                                 </figure>
                                                                             </div>
                                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1370,7 +1369,7 @@
                                                                                         </div>
                                                                                     </div>
                                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                                        <a class="text-none" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                                        <a class="text-none" href="#news">IA e Marketing: Desbloqueando Insights do Cliente</a>
                                                                                     </h3>
                                                                                 </div>
                                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1385,7 +1384,7 @@
                                                                                         </div>
                                                                                     </div>
                                                                                     <div>
-                                                                                        <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                        <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                                             <i class="icon-narrow unicon-chat"></i>
                                                                                             <span>2</span>
                                                                                         </a>
@@ -1399,7 +1398,7 @@
                                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                                 <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                                     <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                                    <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                                    <a href="#news" class="position-cover" data-caption="image"></a>
                                                                                 </figure>
                                                                             </div>
                                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1410,7 +1409,7 @@
                                                                                         </div>
                                                                                     </div>
                                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                                        <a class="text-none" href="blog-details.html">Hidden Gems: Underrated Travel Destinations Around the World</a>
+                                                                                        <a class="text-none" href="#news">Joias escondidas: destinos de viagem subestimados ao redor do mundo</a>
                                                                                     </h3>
                                                                                 </div>
                                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1425,7 +1424,7 @@
                                                                                         </div>
                                                                                     </div>
                                                                                     <div>
-                                                                                        <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                        <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                                             <i class="icon-narrow unicon-chat"></i>
                                                                                             <span>15</span>
                                                                                         </a>
@@ -1456,7 +1455,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1467,7 +1466,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                    <a class="text-none" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1482,7 +1481,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>1</span>
                                                                     </a>
@@ -1496,7 +1495,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1507,7 +1506,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">Business Agility the Digital Age: Leveraging AI and Automation</a>
+                                                                    <a class="text-none" href="#news">Agilidade empresarial na era digital: aproveitando a IA e a automação</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1522,7 +1521,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>23</span>
                                                                     </a>
@@ -1536,7 +1535,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1547,7 +1546,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                    <a class="text-none" href="#news">A Arte da Panificação: Do ​​Pão Clássico aos Doces Artesanais</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1562,7 +1561,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>112</span>
                                                                     </a>
@@ -1576,7 +1575,7 @@
                                                         <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                             <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                <a href="#news" class="position-cover" data-caption="image"></a>
                                                             </figure>
                                                         </div>
                                                         <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1587,7 +1586,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                    <a class="text-none" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                    <a class="text-none" href="#news">IA e Marketing: Desbloqueando Insights do Cliente</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1602,7 +1601,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div>
-                                                                    <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                    <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                         <i class="icon-narrow unicon-chat"></i>
                                                                         <span>2</span>
                                                                     </a>
@@ -1616,8 +1615,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -1648,7 +1647,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1659,7 +1658,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                <a class="text-none" href="#news">IA e Marketing: Desbloqueando Insights do Cliente</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1674,7 +1673,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>2</span>
                                                                 </a>
@@ -1688,7 +1687,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1699,7 +1698,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Hidden Gems: Underrated Travel Destinations Around the World</a>
+                                                                <a class="text-none" href="#news">Joias escondidas: destinos de viagem subestimados ao redor do mundo</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1714,7 +1713,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>15</span>
                                                                 </a>
@@ -1728,7 +1727,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1739,7 +1738,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Eco-Tourism: Traveling Responsibly and Sustainably</a>
+                                                                <a class="text-none" href="#news">Eco-Tourism: Traveling Responsibly and Sustainably</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1754,7 +1753,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>20</span>
                                                                 </a>
@@ -1768,7 +1767,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1779,7 +1778,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Solo Travel: Some Tips and Destinations for the Adventurous Explorer</a>
+                                                                <a class="text-none" href="#news">Viagem Solo: Algumas Dicas e Destinos para o Explorador Aventureiro</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1794,7 +1793,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>5</span>
                                                                 </a>
@@ -1817,8 +1816,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -1849,7 +1848,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1860,7 +1859,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Solo Travel: Some Tips and Destinations for the Adventurous Explorer</a>
+                                                                <a class="text-none" href="#news">Viagem Solo: Algumas Dicas e Destinos para o Explorador Aventureiro</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1875,7 +1874,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>5</span>
                                                                 </a>
@@ -1889,7 +1888,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1900,7 +1899,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">AI-Powered Financial Planning: How Algorithms Revolutionizing</a>
+                                                                <a class="text-none" href="#news">Planejamento financeiro com tecnologia de IA: como os algoritmos estão revolucionando</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1915,7 +1914,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>2</span>
                                                                 </a>
@@ -1929,7 +1928,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1940,7 +1939,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Tech Tools for your Time Management: Enhancing Productivity</a>
+                                                                <a class="text-none" href="#news">Ferramentas tecnológicas para sua gestão de tempo: aumentando a produtividade</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1951,7 +1950,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>19</span>
                                                                 </a>
@@ -1965,7 +1964,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -1976,7 +1975,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">A Guide to The Rise of Gourmet Street Food: Trends and Top Picks</a>
+                                                                <a class="text-none" href="#news">Um guia sobre a ascensão da comida gourmet de rua: tendências e principais escolhas</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -1987,7 +1986,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>2</span>
                                                                 </a>
@@ -2010,8 +2009,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -2059,9 +2058,9 @@
                                                         <div>
                                                             <div class="post-media panel overflow-hidden">
                                                                 <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 h-100">
-                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="Tech Tools for your Time Management: Enhancing Productivity" data-uc-img="loading: lazy">
+                                                                    <img class="media-cover image" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="Ferramentas tecnológicas para sua gestão de tempo: aumentando a produtividade" data-uc-img="loading: lazy">
                                                                 </div>
-                                                                <a href="blog-details.html" class="position-cover"></a>
+                                                                <a href="#news" class="position-cover"></a>
                                                             </div>
                                                         </div>
                                                         <div>
@@ -2073,9 +2072,9 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h4 sm:h3 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">Tech Tools for your Time Management: Enhancing Productivity</a>
+                                                                        <a class="text-none" href="#news">Ferramentas tecnológicas para sua gestão de tempo: aumentando a produtividade</a>
                                                                     </h3>
-                                                                    <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">To spread the word, the company embarked on a mass marketing drive. TV campaigns launched in the platform’s key markets. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
+                                                                    <p class="fs-6 sm:fs-5 ft-tertiary text-truncate-3">Para divulgar a ideia, a empresa embarcou em uma campanha de marketing em massa. Campanhas de TV foram lançadas nos principais mercados da plataforma. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack justify-between gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60 d-none sm:d-flex">
                                                                     <div>
@@ -2084,8 +2083,8 @@
                                                                             <span>3mo ago</span>
                                                                         </div>
                                                                     </div>
-                                                                    <a href="blog-details.html" class="link fs-6 fw-bolder text-none duration-250">
-                                                                        <span>More</span>
+                                                                    <a href="#news" class="link fs-6 fw-bolder text-none duration-250">
+                                                                        <span>Ver Mais</span>
                                                                         <i class="icon-1 unicon-chevron-right"></i>
                                                                     </a>
                                                                 </div>
@@ -2103,7 +2102,7 @@
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                     <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                    <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                    <a href="#news" class="position-cover" data-caption="image"></a>
                                                                 </figure>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2114,7 +2113,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                                                        <a class="text-none" href="#news">A ascensão dos assistentes pessoais com tecnologia de IA: como eles gerenciam</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2129,7 +2128,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div>
-                                                                        <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                        <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                             <i class="icon-narrow unicon-chat"></i>
                                                                             <span>2</span>
                                                                         </a>
@@ -2143,7 +2142,7 @@
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                     <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                    <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                    <a href="#news" class="position-cover" data-caption="image"></a>
                                                                 </figure>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2154,7 +2153,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">Tech Innovations Reshaping the Retail Landscape: AI Payments</a>
+                                                                        <a class="text-none" href="#news">Inovações tecnológicas remodelando o cenário do varejo: pagamentos por IA</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2169,7 +2168,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div>
-                                                                        <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                        <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                             <i class="icon-narrow unicon-chat"></i>
                                                                             <span>100</span>
                                                                         </a>
@@ -2183,7 +2182,7 @@
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                     <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                    <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                    <a href="#news" class="position-cover" data-caption="image"></a>
                                                                 </figure>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2194,7 +2193,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">Balancing Work and Wellness: Tech Solutions for Healthy</a>
+                                                                        <a class="text-none" href="#news">Equilibrando Trabalho e Bem-Estar: Soluções Tecnológicas para uma Vida Saudável</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2209,7 +2208,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div>
-                                                                        <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                        <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                             <i class="icon-narrow unicon-chat"></i>
                                                                             <span>0</span>
                                                                         </a>
@@ -2223,7 +2222,7 @@
                                                             <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                                 <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                                     <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                                    <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                                    <a href="#news" class="position-cover" data-caption="image"></a>
                                                                 </figure>
                                                             </div>
                                                             <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2234,7 +2233,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <h3 class="post-title h6 sm:h5 m-0 text-truncate-2">
-                                                                        <a class="text-none" href="blog-details.html">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                                                        <a class="text-none" href="#news">A importância do sono: dicas para um melhor descanso e recuperação</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2249,7 +2248,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div>
-                                                                        <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                        <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                             <i class="icon-narrow unicon-chat"></i>
                                                                             <span>0</span>
                                                                         </a>
@@ -2264,8 +2263,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -2285,7 +2284,7 @@
                             <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
                                 <div class="block-header px-2 lg:px-0">
                                     <h2 class="h4 md:h3 m-0">
-                                        <span>Economy</span>
+                                        <span>Economia</span>
                                     </h2>
                                 </div>
                                 <div class="block-content panel">
@@ -2296,7 +2295,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2307,7 +2306,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Tech Tools for your Time Management: Enhancing Productivity</a>
+                                                                <a class="text-none" href="#news">Ferramentas tecnológicas para sua gestão de tempo: aumentando a produtividade</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2318,7 +2317,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>19</span>
                                                                 </a>
@@ -2332,7 +2331,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2343,7 +2342,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">A Guide to The Rise of Gourmet Street Food: Trends and Top Picks</a>
+                                                                <a class="text-none" href="#news">Um guia sobre a ascensão da comida gourmet de rua: tendências e principais escolhas</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2354,7 +2353,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>2</span>
                                                                 </a>
@@ -2368,7 +2367,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2379,7 +2378,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
+                                                                <a class="text-none" href="#news">Gaming in the Age of AI: Strategies for Startups</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2390,7 +2389,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>19</span>
                                                                 </a>
@@ -2404,7 +2403,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2415,7 +2414,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Top Independent Contractors to Invest in Best of Startups</a>
+                                                                <a class="text-none" href="#news">Top Independent Contractors to Invest in Best of Startups</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2426,7 +2425,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>12</span>
                                                                 </a>
@@ -2440,7 +2439,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2451,7 +2450,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Potential of Immersive Technologies help your Business Grow</a>
+                                                                <a class="text-none" href="#news">Potential of Immersive Technologies help your Business Grow</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2462,7 +2461,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>45</span>
                                                                 </a>
@@ -2476,7 +2475,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2487,7 +2486,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
+                                                                <a class="text-none" href="#news">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2502,7 +2501,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>290</span>
                                                                 </a>
@@ -2516,7 +2515,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2527,7 +2526,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                <a class="text-none" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2542,7 +2541,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>1</span>
                                                                 </a>
@@ -2556,7 +2555,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2567,7 +2566,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Smart Homes, Smarter Living: Exploring IoT and AI</a>
+                                                                <a class="text-none" href="#news">Smart Homes, Smarter Living: Exploring IoT and AI</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2582,7 +2581,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>15</span>
                                                                 </a>
@@ -2605,8 +2604,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -2626,7 +2625,7 @@
                             <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
                                 <div class="block-header px-2 lg:px-0">
                                     <h2 class="h4 md:h3 m-0">
-                                        <span>Social</span>
+                                        <span>Sociedade</span>
                                     </h2>
                                 </div>
                                 <div class="block-content panel">
@@ -2637,7 +2636,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2648,7 +2647,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Top Independent Contractors to Invest in Best of Startups</a>
+                                                                <a class="text-none" href="#news">Top Independent Contractors to Invest in Best of Startups</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2659,7 +2658,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>12</span>
                                                                 </a>
@@ -2673,7 +2672,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-1.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2684,7 +2683,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Potential of Immersive Technologies help your Business Grow</a>
+                                                                <a class="text-none" href="#news">Potential of Immersive Technologies help your Business Grow</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2695,7 +2694,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>45</span>
                                                                 </a>
@@ -2709,7 +2708,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-2.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2720,7 +2719,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
+                                                                <a class="text-none" href="#news">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2735,7 +2734,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>290</span>
                                                                 </a>
@@ -2749,7 +2748,7 @@
                                                     <div class="post-media panel overflow-hidden w-200px sm:w-100 order-1 sm:order-0">
                                                         <figure class="featured-image m-0 ratio ratio-3x2 sm:ratio-16x9 uc-transition-toggle overflow-hidden bg-gray-25 dark:bg-gray-800">
                                                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('site/assets/images/common/img-fallback.png')}}" data-src="{{ url('site/assets/images/demo-eight/posts/post-3.jpeg')}}" alt="image" data-uc-img="loading: lazy">
-                                                            <a href="blog-details.html" class="position-cover" data-caption="image"></a>
+                                                            <a href="#news" class="position-cover" data-caption="image"></a>
                                                         </figure>
                                                     </div>
                                                     <div class="post-header panel vstack justify-between gap-1 sm:gap-2 p-0 sm:p-2 mt-narrow sm:mt-0 w-100">
@@ -2760,7 +2759,7 @@
                                                                 </div>
                                                             </div>
                                                             <h3 class="post-title h6 md:h5 m-0 text-truncate-2">
-                                                                <a class="text-none" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                <a class="text-none" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                             </h3>
                                                         </div>
                                                         <div class="post-bottom panel hstack gap-2 fs-7 mt-narrow sm:mt-0 text-black dark:text-white text-opacity-60">
@@ -2775,7 +2774,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>
-                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                <a href="#newspost_comment" class="post-comments text-none hstack gap-narrow">
                                                                     <i class="icon-narrow unicon-chat"></i>
                                                                     <span>1</span>
                                                                 </a>
@@ -2798,8 +2797,8 @@
                                     </div>
                                 </div>
                                 <div class="block-footer cstack items-center lg:mt-2">
-                                    <a href="#" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
-                                        <span>More</span>
+                                    <a href="#news" class="animate-btn gap-0 btn btn-sm lg:btn-md btn-primary px-3 lg:px-6">
+                                        <span>Ver Mais</span>
                                         <i class="icon icon-2 unicon-chevron-right"></i>
                                     </a>
                                 </div>
@@ -2819,7 +2818,7 @@
                             <div class="block-layout grid-layout vstack gap-3 sm:gap-4 xl:gap-5 panel">
                                 <div class="block-header">
                                     <h2 class="h4 md:h3 m-0">
-                                        <span>Most Read</span>
+                                        <span>Mais lido</span>
                                     </h2>
                                 </div>
                                 <div class="block-content panel overflow-hidden">
@@ -2830,7 +2829,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">1</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                                    <a class="text-none" href="#news">A ascensão dos assistentes pessoais com tecnologia de IA: como eles gerenciam</a>
                                                 </h6>
                                             </article>
                                         </div>
@@ -2840,7 +2839,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">2</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">Tech Innovations Reshaping the Retail Landscape: AI Payments</a>
+                                                    <a class="text-none" href="#news">Inovações tecnológicas remodelando o cenário do varejo: pagamentos por IA</a>
                                                 </h6>
                                             </article>
                                         </div>
@@ -2850,7 +2849,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">3</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">Balancing Work and Wellness: Tech Solutions for Healthy</a>
+                                                    <a class="text-none" href="#news">Equilibrando Trabalho e Bem-Estar: Soluções Tecnológicas para uma Vida Saudável</a>
                                                 </h6>
                                             </article>
                                         </div>
@@ -2860,7 +2859,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">4</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                                    <a class="text-none" href="#news">A importância do sono: dicas para um melhor descanso e recuperação</a>
                                                 </h6>
                                             </article>
                                         </div>
@@ -2870,7 +2869,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">5</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                    <a class="text-none" href="#news">O Futuro da Vida Sustentável: Impulsionando Estilos de Vida Ecologicamente Corretos</a>
                                                 </h6>
                                             </article>
                                         </div>
@@ -2880,7 +2879,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">6</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">Business Agility the Digital Age: Leveraging AI and Automation</a>
+                                                    <a class="text-none" href="#news">Agilidade empresarial na era digital: aproveitando a IA e a automação</a>
                                                 </h6>
                                             </article>
                                         </div>
@@ -2890,7 +2889,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">7</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                    <a class="text-none" href="#news">A Arte da Panificação: Do ​​Pão Clássico aos Doces Artesanais</a>
                                                 </h6>
                                             </article>
                                         </div>
@@ -2900,7 +2899,7 @@
                                                     <h3 class="h3 lg:h2 m-0 text-primary">8</h3>
                                                 </div>
                                                 <h6 class="h5 text-truncate-2 hover:text-primary duration-200">
-                                                    <a class="text-none" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                    <a class="text-none" href="#news">IA e Marketing: Desbloqueando Insights do Cliente</a>
                                                 </h6>
                                             </article>
                                         </div>

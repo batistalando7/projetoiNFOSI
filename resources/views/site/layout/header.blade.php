@@ -1398,14 +1398,26 @@
                                 <a href="/">Sociedade<span data-uc-navbar-parent-icon></span></a>
                                 <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
                                     data-uc-drop=" offset: 0; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
-
-                                    <ul class="uc-nav uc-navbar-dropdown-nav">
-                                        <li><a href="shop.html">Educação</a></li>
-                                        <li><a href="shop-3.html">Saúde</a></li>
-                                        <li><a href="shop-2.html">Direitos Humanos</a></li>
-                                        <li><a href="shop-product-detail.html">Cultura</a></li>
-                                        <li><a href="shop-product-detail-2.html">Desporto</a></li>
-                                    </ul>
+                                    <div class="row child-cols g-4">
+                                        <ul class="uc-nav uc-navbar-dropdown-nav">
+                                            <li><a href="shop.html">Educação</a></li>
+                                            <li><a href="shop-3.html">Saúde</a></li>
+                                            <li><a href="shop-2.html">Direitos Humanos</a></li>
+                                            <li><a href="shop-product-detail.html">Cultura</a></li>
+                                            <li><a href="shop-product-detail-2.html">Desporto</a></li>
+                                        </ul>
+                                        <div class="col-3">
+                                            <div class="panel w-100 overflow-hidden">
+                                                <div class="ratio ratio-3x4 overflow-hidden rounded">
+                                                    <img src="{{ url('site/assets/images/common/menu-banner.jpg') }}"
+                                                        alt="Let's build anything with News5!">
+                                                    <a class="position-cover"
+                                                        href="https://themeforest.net/user/reacthemes/portfolio"
+                                                        target="_blank"></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
 
                             </li>
@@ -1413,25 +1425,49 @@
                                 <a href="#">Multimédia<span data-uc-navbar-parent-icon></span></a>
                                 <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
                                     data-uc-drop=" offset: 0; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
-
-                                    <ul class="uc-nav uc-navbar-dropdown-nav">
-                                        <li><a href="#">Videos</a></li>
-                                        <li><a href="#">Podcast</a></li>
-                                        <li><a href="#ml">Galeria de Fotografias</a></li>
-                                    </ul>
+                                    <div class="row child-cols g-4">
+                                        <ul class="uc-nav uc-navbar-dropdown-nav">
+                                            <li><a href="#">Videos</a></li>
+                                            <li><a href="#">Podcast</a></li>
+                                            <li><a href="#ml">Galeria de Fotografias</a></li>
+                                        </ul>
+                                        <div class="col-3">
+                                            <div class="panel w-100 overflow-hidden">
+                                                <div class="ratio ratio-3x4 overflow-hidden rounded">
+                                                    <img src="{{ url('site/assets/images/common/menu-banner.jpg') }}"
+                                                        alt="Let's build anything with News5!">
+                                                    <a class="position-cover"
+                                                        href="https://themeforest.net/user/reacthemes/portfolio"
+                                                        target="_blank"></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </li>
                             <li>
                                 <a href="#">Internacional<span data-uc-navbar-parent-icon></span></a>
-                                 <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
+                                <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
                                     data-uc-drop=" offset: 0; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
-                                    
-                                <ul class="uc-nav uc-navbar-dropdown-nav">
-                                    <li class="#">Internacional</li>
-                                    <li><a href="#">África</a></li>
-                                    <li><a href="#">PALOP</a></li>
-                                    <li><a href="#">Mundo</a></li>
-                                </ul>
+                                    <div class="row child-cols g-4">
+                                        <ul class="uc-nav uc-navbar-dropdown-nav">
+                                            <li class="#">Internacional</li>
+                                            <li><a href="#">África</a></li>
+                                            <li><a href="#">PALOP</a></li>
+                                            <li><a href="#">Mundo</a></li>
+                                        </ul>
+                                        <div class="col-3">
+                                            <div class="panel w-100 overflow-hidden">
+                                                <div class="ratio ratio-3x4 overflow-hidden rounded">
+                                                    <img src="{{ url('site/assets/images/common/menu-banner.jpg') }}"
+                                                        alt="Let's build anything with News5!">
+                                                    <a class="position-cover"
+                                                        href="https://themeforest.net/user/reacthemes/portfolio"
+                                                        target="_blank"></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                             </li>
                             {{-- <li><a href="#">Sociedade</a></li> --}}
                             {{-- <li><a href="blog-category.html">Multimédia</a></li>
