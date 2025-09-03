@@ -4,19 +4,19 @@
                 <div class="container max-w-xl">
                     <div class="footer-inner vstack gap-4 justify-center lg:fs-5 text-gray-900 dark:text-white">
                         <div class="footer-logo text-center">
-                            <img class="uc-logo w-100px text-gray-900 dark:text-white" src="{{ url('site/assets/images/demo-eight/common/logo.svg')}}" alt="News5" data-uc-svg>
+                            <img class="uc-logo w-100px text-gray-900 dark:text-white" src="{{ url('site/assets/images/demo-eight/common/4.png')}}" alt="News5" data-uc-svg>
                         </div>
                         <nav class="footer-nav">
                             <ul class="nav-x gap-2 lg:gap-3 justify-center text-center fw-medium">
-                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="blog-category.html">World</a></li>
+                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="#">Mundo</a></li>
                                 <li class="vr dark:border-gray-200"></li>
-                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="blog-category.html">Tech</a></li>
+                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="#">Tecnologias</a></li>
                                 <li class="vr dark:border-gray-200"></li>
-                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="blog-category.html">Economy</a></li>
+                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="#">Economia</a></li>
                                 <li class="vr dark:border-gray-200"></li>
-                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="blog-category.html">Travel</a></li>
+                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="#">Turismo</a></li>
                                 <li class="vr dark:border-gray-200"></li>
-                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="blog-category.html">Media</a></li>
+                                <li><a class="hover:text-opacity-70 dark:hover:text-white duration-150" href="#">Podcast</a></li>
                             </ul>
                         </nav>
                         <div class="footer-social hstack justify-center gap-2 lg:gap-3">
@@ -57,8 +57,8 @@
                                 )
                             </script>, All rights reserved.</p>
                             <ul class="nav-x gap-2 fw-medium">
-                                <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-privacy.html">Privacy notice</a></li>
-                                <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-terms.html">Terms of condition</a></li>
+                                <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-privacy.html">Termos de Privacidade</a></li>
+                                <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-terms.html">Termos e Condições</a></li>
                             </ul>
                         </div>
                     </div>

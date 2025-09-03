@@ -13,7 +13,7 @@
                         <div class="uc-logo text-white">
                             <a href="/">
                                 <img class="w-80px text-dark dark:text-white"
-                                    src="{{ url('site/assets/images/demo-eight/common/logo.svg') }}" alt="News5"
+                                    src="{{ url('site/assets/images/demo-eight/common/4.png') }}" alt="News5"
                                     data-uc-svg>
                             </a>
                         </div>
@@ -1394,10 +1394,49 @@
                             <li><a href="#">Sobre Nós</a></li>
                             <li><a href="#">Política</a></li>
                             <li><a href="#">Economia</a></li>
+                            <li>
+                                <a href="/">Sociedade<span data-uc-navbar-parent-icon></span></a>
+                                <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
+                                    data-uc-drop=" offset: 0; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
+
+                                    <ul class="uc-nav uc-navbar-dropdown-nav">
+                                        <li><a href="shop.html">Educação</a></li>
+                                        <li><a href="shop-3.html">Saúde</a></li>
+                                        <li><a href="shop-2.html">Direitos Humanos</a></li>
+                                        <li><a href="shop-product-detail.html">Cultura</a></li>
+                                        <li><a href="shop-product-detail-2.html">Desporto</a></li>
+                                    </ul>
+                                </div>
+
+                            </li>
+                            <li>
+                                <a href="#">Multimédia<span data-uc-navbar-parent-icon></span></a>
+                                <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
+                                    data-uc-drop=" offset: 0; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
+
+                                    <ul class="uc-nav uc-navbar-dropdown-nav">
+                                        <li><a href="#">Videos</a></li>
+                                        <li><a href="#">Podcast</a></li>
+                                        <li><a href="#ml">Galeria de Fotografias</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <a href="#">Internacional<span data-uc-navbar-parent-icon></span></a>
+                                 <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
+                                    data-uc-drop=" offset: 0; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
+                                    
+                                <ul class="uc-nav uc-navbar-dropdown-nav">
+                                    <li class="#">Internacional</li>
+                                    <li><a href="#">África</a></li>
+                                    <li><a href="#">PALOP</a></li>
+                                    <li><a href="#">Mundo</a></li>
+                                </ul>
+                            </li>
                             {{-- <li><a href="#">Sociedade</a></li> --}}
                             {{-- <li><a href="blog-category.html">Multimédia</a></li>
                             <li><a href="blog-category.html">Internacional</a></li> --}}
-                            <li>
+                            {{--  <li>
                                 <a href="#">Outros <span data-uc-navbar-parent-icon></span></a>
                                 <div class="uc-navbar-dropdown ft-primary text-unset p-3 hide-scrollbar"
                                     data-uc-drop=" offset: 0; boundary: !.uc-navbar; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
@@ -1410,13 +1449,13 @@
                                                         <li><a href="#">Videos</a></li>
                                                         <li><a href="#">Podcast</a></li>
                                                         <li><a href="#ml">Galeria de Fotografias</a></li>
-                                                        {{-- <li><a href="#l">Classic Blog</a></li>
+                                                        <li><a href="#l">Classic Blog</a></li>
                                                         <li><a href="#l">Gaming</a></li>
                                                         <li><a href="#">Sports</a></li>
                                                         <li><a href="#ml">Newspaper</a></li>
                                                         <li><a href="#ml">Magazine</a></li>
                                                         <li><a href="#l">Travel</a></li>
-                                                        <li><a href="#">Food</a></li> --}}
+                                                        <li><a href="#">Food</a></li>
                                                     </ul>
                                                 </div>
                                                 <div>
@@ -1425,13 +1464,13 @@
                                                         <li><a href="#">África</a></li>
                                                         <li><a href="#">PALOP</a></li>
                                                         <li><a href="#">Mundo</a></li>
-                                                        {{-- <li><a href="blog-3cols.html">Grid 3 cols</a></li>
+                                                        <li><a href="blog-3cols.html">Grid 3 cols</a></li>
                                                         <li><a href="blog-4cols.html">Grid 4 cols</a></li>
                                                         <li><a href="blog-category.html">Category</a></li>
                                                         <li><a href="blog-author.html">Author</a></li>
                                                         <li><a href="blog-details.html">Blog single</a></li>
                                                         <li><a href="blog-details-2.html">Blog single v2</a></li>
-                                                        <li><a href="blog-details-3.html">Blog single v3</a></li> --}}
+                                                        <li><a href="blog-details-3.html">Blog single v3</a></li>
                                                     </ul>
                                                 </div>
                                                 <div>
@@ -1442,11 +1481,11 @@
                                                         <li><a href="shop-2.html">Direitos Humanos</a></li>
                                                         <li><a href="shop-product-detail.html">Cultura</a></li>
                                                         <li><a href="shop-product-detail-2.html">Desporto</a></li>
-                                                        {{-- <li><a href="shop-cart.html">Cart</a></li>
+                                                        <li><a href="shop-cart.html">Cart</a></li>
                                                         <li><a href="shop-cart-2.html">Cart v2</a></li>
                                                         <li><a href="shop-checkout.html">Checkout</a></li>
                                                         <li><a href="shop-checkout-2.html">Checkout v2</a></li>
-                                                        <li><a href="shop-order.html">Order confirmation</a></li> --}}
+                                                        <li><a href="shop-order.html">Order confirmation</a></li>
                                                     </ul>
                                                 </div>
                                                 <div>
@@ -1454,11 +1493,11 @@
                                                         <li class="uc-nav-header mb-1">Publicações</li>
                                                         <li><a href="sign-in.html">Livros</a></li>
                                                         <li><a href="sign-up.html">Avisos</a></li>
-                                                       {{--  <li><a href="reset-password.html">Reset password</a></li>
+                                                        <li><a href="reset-password.html">Reset password</a></li>
                                                         <li><a href="404.html">404</a></li>
                                                         <li><a href="coming-soon.html">Coming Soon</a></li>
                                                         <li><a href="page-terms.html">Terms of service</a></li>
-                                                        <li><a href="page-privacy.html">Privacy policy</a></li> --}}
+                                                        <li><a href="page-privacy.html">Privacy policy</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1476,7 +1515,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </li>
+                            </li> --}}
                             <li><a href="#">Contacto</a></li>
                         </ul>
                     </div>
@@ -1489,11 +1528,11 @@
                                 <span class="slider"></span>
                             </label>
                         </div>
-                        <button type="button" class="btn h-40px p-0 text-white border-0 lg:d-inline-flex"
+                        {{--  <button type="button" class="btn h-40px p-0 text-white border-0 lg:d-inline-flex"
                             data-uc-toggle="target: #uc-account-modal">
                             <i class="icon icon-narrow unicon-user-filled"></i>
                             <span>Log in</span>
-                        </button>
+                        </button> --}}
                         <div class="vr h-16px my-auto"></div>
                         <div class="uc-navbar-item d-none xl:d-inline-flex">
                             <ul class="nav-x gap-2">
@@ -1501,10 +1540,10 @@
                                     <a class="text-gray-900 dark:text-white hover:text-primary" href="#fb"><i
                                             class="icon icon-1 unicon-logo-facebook"></i></a>
                                 </li>
-                                <li>
+                                {{--  <li>
                                     <a class="text-gray-900 dark:text-white hover:text-primary" href="#fl"><i
                                             class="icon icon-1 unicon-logo-flickr"></i></a>
-                                </li>
+                                </li> --}}
                                 <li>
                                     <a class="text-gray-900 dark:text-white hover:text-primary" href="#in"><i
                                             class="icon icon-1 unicon-logo-instagram"></i></a>
